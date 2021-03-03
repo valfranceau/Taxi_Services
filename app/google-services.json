@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "763125851049",
+    "project_id": "taxi-motoservices",
+    "storage_bucket": "taxi-motoservices.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763125851049:android:36b064ac706a97e8b51ab8",
+        "android_client_info": {
+          "package_name": "com.example.taxi_motoservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763125851049-f9fc0n9mt512ummnur8hgif51qlsmo9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1d86YpG5_PBqFqnAub3MPpaRlUVk_b90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763125851049-f9fc0n9mt512ummnur8hgif51qlsmo9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
